@@ -1,1 +1,2 @@
 première modification de fileA.txt
+ceci est la modification d'annulation des commits
